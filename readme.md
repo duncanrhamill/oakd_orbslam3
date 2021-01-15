@@ -7,6 +7,8 @@ position information out of an OAK-D using ORB_SLAM3.
 
 TODO: More info
 
+[![Simple Demo](http://img.youtube.com/vi/3b_P6yItYxM/0.jpg)](http://www.youtube.com/watch?v=3b_P6yItYxM "OAK-D / ORB_SLAM3 Demo")
+
 ## Build
 
 1. Download ORB_SLAM3 submodule (note this is a fork that fixes some build
