@@ -9,6 +9,14 @@ TODO: More info
 
 [![Simple Demo](http://img.youtube.com/vi/3b_P6yItYxM/0.jpg)](http://www.youtube.com/watch?v=3b_P6yItYxM "OAK-D / ORB_SLAM3 Demo")
 
+## OpenCV Versions
+
+Support for OpenCV 3 or 4 is selected by the branch you choose:
+
+- [`main`](https://github.com/duncanrhamill/oakd_orbslam3/tree/main): Uses a
+  slightly fixed version of ORB_SLAM3 which targets OpenCV 3.
+- [`opencv_4`](https://github.com/duncanrhamill/oakd_orbslam3/tree/opencv_4):
+  Uses a PR branch of ORB_SLAM3 which targets OpenCV 4. 
 ## Build
 
 1. Download ORB_SLAM3 submodule (note this is a fork that fixes some build
